@@ -71,10 +71,4 @@ class Tecnico(Persona):
 
 t3 = Tecnico("Mirco Bruno", 40, 2015)
 
-t3.saluti()
-
-
-
-
-
-
+t3.saluti() 
